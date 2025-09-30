@@ -1,0 +1,114 @@
+GET http://localhost:8081/thoughtprocessing.com/check
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=2890A7A179FE0CE59196B1B74D777D86
+
+###
+
+GET http://localhost:8081/thoughtprocessing.com/check
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=2890A7A179FE0CE59196B1B74D777D86
+
+###
+
+GET http://localhost:8081/thoughtprocessing.com/check
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=2890A7A179FE0CE59196B1B74D777D86
+
+###
+
+GET http://localhost:8081/thoughtprocessing.com/check
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=2890A7A179FE0CE59196B1B74D777D86
+
+###
+
+GET http://localhost:8081/thoughtprocessing.com/check
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=2890A7A179FE0CE59196B1B74D777D86
+
+###
+
+GET http://localhost:8081/thoughtprocessing.com/check
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=06959734897182B5460A9CDBA72CD854
+
+###
+
+GET http://localhost:8080/thoughtprocessing-core/test
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=06959734897182B5460A9CDBA72CD854
+
+<> 2025-09-23T081552.200.html
+
+###
+
+POST http://localhost:8080/thoughtprocessing/validate
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=06959734897182B5460A9CDBA72CD854
+content-length: 0
+
+<> 2025-09-23T045707.404.html
+
+###
+
+POST http://localhost:8080/thoughtprocessing/validate
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=06959734897182B5460A9CDBA72CD854
+content-length: 0
+
+<> 2025-09-23T045610.404.html
+
+###
+
+POST http://localhost:8080/thoughtprocessing/validate
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=06959734897182B5460A9CDBA72CD854
+content-length: 0
+
+<> 2025-09-23T045551.404.html
+
+###
+
+# @no-cookie-jar
+GET http://localhost:8080/thoughtprocessing-core/test
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:8080/thoughtprocessing-core/test
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: JSESSIONID=06959734897182B5460A9CDBA72CD854
+
+###
+
+GET http://localhost:8080/thoughtprocessing-core/test
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
